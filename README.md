@@ -25,6 +25,10 @@ This is an improvement and enhancement of the first generation [TRU Sounder SPLO
 
 * [OWLTECH Perspectives](http://perspectives.owlteh.org/) Open Web For Learning & Teaching Expertise Hub -- a series of videos contributed by educators and learners who are actively engaged in using the Open Web within their practice.
 * [SPLOTbox](http://splot.ca/box/) - the development and very first site, stuff can and will break
+* [OER In Other Languages](https://oloer.opened.ca/) - surface OERs created in other languages and to amplify those efforts.
+* [BIOL312 @UNBC - Molecular Cell Physiology](https://biol312.opened.ca/) - students posts examine the molecular basis of cellular processes from cell-division to cell signalling, cell and tissue interactions, cellular mechanisms of development, cell differentiation, and the immune system.
+* [BIOL420 @UNBC - Animal Behaviour](https://biol420.opened.ca/) - student posts explore adaptive significance and evolutionary basis of behaviour patterns exhibited by the major animal phyla.
+[BIOL421 @UNBC - Insects, Fungi and Society](https://biol421.opened.ca/) - student posts explore historical, social and economic importance of insects and fungi to human society, including underlying biological and ecological principles.
 
 And if you make a SPLOTbox site, please please pretty *please* fork this repo to edit this Readme with a link to your new site.
 
